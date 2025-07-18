@@ -1,5 +1,5 @@
 # 🧠 Skill Endorsement Registry – Smart Contract
-
+ 
 ## What is it?
 
 The **Skill Endorsement Registry** is a decentralized smart contract system that allows users to:
