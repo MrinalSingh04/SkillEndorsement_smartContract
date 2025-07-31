@@ -7,7 +7,7 @@ The **Skill Endorsement Registry** is a decentralized Solidity smart contract sy
 - Register themselves
 - Add verifiable skill tags
 - Receive endorsements from others
-- Build on-chain reputation backed by optional staking
+- Build on-chain reputation backed by optional staking 
 
 ## Why this matters 
 
