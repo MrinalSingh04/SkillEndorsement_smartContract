@@ -9,7 +9,7 @@ The **Skill Endorsement Registry** is a decentralized Solidity smart contract sy
 - Receive endorsements from others
 - Build on-chain reputation backed by optional staking
 
-## Why this matters
+## Why this matters 
 
 In today’s digital world, credentials and endorsements are often centralized and unverifiable. This smart contract introduces a **transparent and trustless alternative**:
 
